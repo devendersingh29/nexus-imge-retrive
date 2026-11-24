@@ -53,7 +53,7 @@ Check that it is set (prints only `set` or `not set`, never the password):
 Optional: set the other variables if they differ from the defaults (see the Configuration table):
 
 ```bash
-export NEXUS_URL=https://repo.walkingtree.tech
+export NEXUS_URL=https://repo.tech
 export NEXUS_USER=admin
 export NEXUS_REPO=docker-minio
 export KEEP_N=3
