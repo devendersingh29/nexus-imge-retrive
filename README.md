@@ -88,7 +88,7 @@ Any value can be overridden with an environment variable.
 
 | Variable | Default | Meaning |
 |---|---|---|
-| NEXUS_URL | https://repo.walkingtree.tech | Nexus base URL |
+| NEXUS_URL | https://repo.tech | Nexus base URL |
 | NEXUS_USER | admin | Nexus username |
 | NEXUS_PASS | (hidden prompt if unset) | Nexus password |
 | NEXUS_REPO | docker-minio | Docker repository name |
